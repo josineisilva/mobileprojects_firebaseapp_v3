@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "414463090261",
+    "project_id": "aulamobile2021",
+    "storage_bucket": "aulamobile2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414463090261:android:88f67aedbb899373b43edc",
+        "android_client_info": {
+          "package_name": "com.example.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414463090261-anu2qu7e7ej49b6k4951tb420r5lanv3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseapp",
+            "certificate_hash": "908c4f25b944b070e12efd736442b481556a4e66"
+          }
+        },
+        {
+          "client_id": "414463090261-66qgbr5080gd704cg042mug0tjqg24q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_-I5fMhkmGtoAvBGtmdLs6x6HFafTclg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414463090261-66qgbr5080gd704cg042mug0tjqg24q4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
